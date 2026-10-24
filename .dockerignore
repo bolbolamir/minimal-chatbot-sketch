@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!main.py
+!insurance_assistant/
+!insurance_assistant/*.py
+**/__pycache__/
+**/*.py[cod]
